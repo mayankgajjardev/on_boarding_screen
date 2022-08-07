@@ -50,7 +50,7 @@ class _MyAppState extends State<MyApp> {
         OnBoardingModel(
           image: Image.asset("assets/images/img4.png"),
           title: "Content Team",
-          body: "No two content marketing teams look the same.",
+          body: "No two content marketing teams the same.",
         ),
       ],
     );
