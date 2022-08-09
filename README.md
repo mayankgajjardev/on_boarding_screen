@@ -23,7 +23,7 @@ for installation add onboarding_screen package in pubspec.yaml file.
 This is the example of on boarding screen.
 for starting screen
 
-<img src="https://user-images.githubusercontent.com/78218862/183703477-550090d7-1e48-4374-9e25-10283836ce4b.gif" width="100" height="450"/>
+<img src="https://user-images.githubusercontent.com/78218862/183703477-550090d7-1e48-4374-9e25-10283836ce4b.gif" width="250" height="450"/>
 
  
 ## Usage
