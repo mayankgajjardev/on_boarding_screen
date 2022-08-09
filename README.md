@@ -23,17 +23,18 @@ for installation add onboarding_screen package in pubspec.yaml file.
 This is the example of on boarding screen.
 for starting screen
 
-<video src="https://user-images.githubusercontent.com/78218862/183291883-edd54d91-4de6-43fc-980f-d9ec372c96ea.mp4"></video>
+![demo_gif](https://user-images.githubusercontent.com/78218862/183703477-550090d7-1e48-4374-9e25-10283836ce4b.gif)
 
  
 ## Usage
 
-    To use this package in your project to add your project pubspec.yaml file.
+To use this package in your project to add your project pubspec.yaml file.
 
     dependencies:
         onboarding_intro_screen: ^0.0.5
+        
 
-    Follow the example found at the main.dart of the example and implement it in your app. 
+Follow the example found at the main.dart of the example and implement it in your app. 
 
 
 ## How to use 
