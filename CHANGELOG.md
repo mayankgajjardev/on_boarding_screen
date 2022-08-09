@@ -12,3 +12,6 @@ onboarding_intro_screen 0.0.6
 
 ## 0.0.7
 onboarding_intro_screen 0.0.7
+
+## 0.0.8
+onboarding_intro_screen 0.0.8
