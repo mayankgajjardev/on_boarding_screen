@@ -23,7 +23,7 @@ for installation add onboarding_screen package in pubspec.yaml file.
 This is the example of on boarding screen.
 for starting screen
 
-![caption](https://user-images.githubusercontent.com/78218862/183291883-edd54d91-4de6-43fc-980f-d9ec372c96ea.mp4)
+<video src="https://user-images.githubusercontent.com/78218862/183291883-edd54d91-4de6-43fc-980f-d9ec372c96ea.mp4"></video>
 
  
 ## Usage
