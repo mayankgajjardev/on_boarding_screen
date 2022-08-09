@@ -10,9 +10,8 @@ For general information about developing packages, see the Dart guide for
 and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
-
-Use this package for introduction screen like on onboarding.
-
+A new flutter package for both android and ios which help you to create intro screen, 
+onboarding screen in a simple and easy way.   
 
 ## Installation
 
@@ -24,18 +23,20 @@ for installation add onboarding_screen package in pubspec.yaml file.
 This is the example of on boarding screen.
 for starting screen
 
-https://user-images.githubusercontent.com/78218862/183291883-edd54d91-4de6-43fc-980f-d9ec372c96ea.mp4
+![caption](https://user-images.githubusercontent.com/78218862/183291883-edd54d91-4de6-43fc-980f-d9ec372c96ea.mp4)
 
-
-## Getting started
-
-First of all,
-    add this package in your project pubspec.yaml file.
-    and use for OnBoardingScreen model class and applay other functionality.
-    
-
-
+ 
 ## Usage
+
+    To use this package in your project to add your project pubspec.yaml file.
+
+    dependencies:
+        onboarding_intro_screen: ^0.0.5
+
+    Follow the example found at the main.dart of the example and implement it in your app. 
+
+
+## How to use 
 
     class MyApp extends StatefulWidget {
         const MyApp({Key? key}) : super(key: key);

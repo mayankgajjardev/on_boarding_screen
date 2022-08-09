@@ -1,6 +1,6 @@
 name: onboarding_intro_screen
 description: A Flutter package for both android and iOS which provides On Boarding Screen.
-version: 0.0.5
+version: 0.0.6
 homepage: https://github.com/mayankgajjardev/on_boarding_screen
 
 environment:
